@@ -1,8 +1,10 @@
-team : Leopards
+team: Leopards
 
-manager : Nora
+manager: Nora
 
-members :
+coach: Oscar
+
+members:
 - Linda
 - William
 - David
